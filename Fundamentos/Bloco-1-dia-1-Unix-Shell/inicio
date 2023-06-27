@@ -1,0 +1,20 @@
+Começo do meu desenvolvimento Profissional aprendendo Comando de Criação de Arquivos tanto adicionar
+como remove-los ou movelos ou recrialos
+
+Nesta seção, você vai aprender:
+
+Conceito de Unix, Kernel e Shell;
+Quais os principais comandos do Unix;
+Como trabalhar no terminal;
+Como manipular diretórios e arquivos;
+Como exibir conteúdos de arquivos no terminal;
+Conceitos de Git e de GitHub;
+Como gerenciar versões de um projeto;
+Como criar repositório de projetos.
+
+O Unix é um sistema operacional popular lançado em 1969 que gerou diversas variações. Essas variações se tornaram os principais sistemas operacionais do mercado atual.
+
+o Kernel e responsavel por fazer interação com Hardware e o Softaware e o nucleo do sistema operacional e utilizando no momento em que se liga o computador
+
+o segundo nivel e o Shell e a interface entre o sistema operacional e o usuario a função dp cell e ler a linha de comando e executalar com base no que foi interpletado e devolver o resultado para o usuario
+
