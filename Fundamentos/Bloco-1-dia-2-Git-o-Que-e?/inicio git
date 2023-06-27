@@ -1,0 +1,15 @@
+Aprendi exemplos durantes minha aulas
+
+Git Esse sistema permite criar inúmeras ramificações (cópias) do seu projeto para acessá-las quando necessário.
+
+Além disso, prepare-se para se familiarizar com os termos branch, commit e merge
+Você também vai começar a utilizar o VS Code e aprender a gerenciar nele as versões do seu projeto. Caso queira saber mais, você pode ler esse artigo sobre VS Code, disponível na área de Desenvolvimento Web: Vida Real.
+
+O Git funciona como uma linha do tempo na qual você pode criar vários pontos de acesso para as alterações realizadas em um projeto e acessá-las quando necessário. Dessa forma, em vez de criar várias pastas com várias versões, você precisará de apenas uma pasta e, dentro dela, poderá criar e acessar as versões do seu projeto, tudo isso por meio da linha de comando do seu terminal.
+
+Para fazer o versionamento com o Git, existem 3 conceitos principais:
+
+Ramificação (branch);
+Captura de mudanças (commit);
+Mesclagem (merge).
+A ramificação funciona como os ramos do seu projeto, ou seja, o seu projeto principal fica em uma branch (ramo) que atualmente é chamada de branch main. Por meio dela, você consegue criar outros ramos (outras branches) que têm uma versão do projeto principal em que você pode realizar modificações sem tanta cautela, pois suas ações não interferem na branch main.
